@@ -62,7 +62,7 @@ export default function Home() {
       ,
     ],
     "Software Development ": [
-      { src: "/img/Your Paragraph text.png", alt: "Blog Page Slide 1" },
+      { src: "/img/softwares.png", alt: "Blog Page Slide 1" },
       
     ],
     "Digital Marketing(SEO)": [
