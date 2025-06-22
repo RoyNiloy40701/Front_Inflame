@@ -299,7 +299,7 @@ export default function LatexSoftware() {
                 viewport={{ once: true }}
               >
                 <Image
-                  src="/img/Your Paragraph text.png"
+                  src="/img/software2.jpg"
                   alt="LaTeXPro Benefits"
                   width={900}
                   height={500}
