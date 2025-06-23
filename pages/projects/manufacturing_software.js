@@ -373,7 +373,7 @@ export default function ManufacturingSoftware() {
               whileInView="animate"
               viewport={{ once: true }}
             >
-              <h2>Experience ManuPro in Action</h2>
+              <h2>Why You Need the Best Manufacturing Software</h2>
               <p className="text-content">
                 Discover ManuPro’s manufacturing software through an interactive demo. See how our dashboard, inventory management, and analytics optimize production.
               </p>
