@@ -366,7 +366,7 @@ export default function HRSoftware() {
               whileInView="animate"
               viewport={{ once: true }}
             >
-              <h2>Experience HRPro in Action</h2>
+              <h2>Why Choose Inflame HR and Payroll Software.</h2>
               <p className="text-content">
                 Discover HRPro’s HR and payroll software through an interactive demo. See how our employee dashboard, payroll automation, and compliance reports streamline your operations.
               </p>
