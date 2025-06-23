@@ -123,7 +123,7 @@ export default function AccountingSoftware() {
         <title>Accounting Solutions</title>
         <meta
           name="description"
-          content="Inflame Solution is a leading accounting software development company in Bangladesh, delivering robust, scalable solutions to optimize financial processes."
+          content="Inflame Solution is an accounting software development company in Bangladesh, delivering robust, scalable solutions to optimize financial processes."
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
