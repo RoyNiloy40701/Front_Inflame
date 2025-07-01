@@ -100,7 +100,7 @@ export default function Contact() {
                   <li>
                     <MdAttachEmail />{" "}
                     <span>
-                      Email: <a href="mailto:test@gamil.com">inflamesolutionltd@gmail.com</a>
+                      Email: <a href="mailto:test@gamil.com">inflamesolutionltd@gmail.comm</a>
                     </span>
                   </li>
                   <li>
