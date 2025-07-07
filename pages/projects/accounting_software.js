@@ -123,7 +123,7 @@ export default function AccountingSoftware() {
         <title>Best Accounting Software in Bangladesh | Easy & Secure Financial Solution</title>
         <meta
           name="description"
-          content="Inflame Solution is an accounting software development company in Bangladesh, delivering robust, scalable solutions to optimize financial processes."
+          content="Explore the best accounting software in Bangladesh for effortless invoicing, VAT support, expense tracking, and real-time reporting, perfect for all business sizes"
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
