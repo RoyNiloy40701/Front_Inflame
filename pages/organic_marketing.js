@@ -129,10 +129,10 @@ export default function SEOServices() {
   return (
     <>
       <Head>
-        <title>SEO Services</title>
+        <title>Best digital marketing agency in Bangladesh</title>
         <meta
           name="description"
-          desc="Skyrocket your search rankings with RankBoost’s SEO services, including keyword optimization, link building, and technical SEO."
+          desc="Rank higher and convert better with the best digital marketing agency in Bangladesh, specializing in SEO, ads, and Social media marketing."
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Lora:wght@400;500&display=swap"
