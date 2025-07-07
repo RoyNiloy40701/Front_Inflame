@@ -410,8 +410,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Inflame Solutions Ltd</title>
-        <meta name="description" content="inflame solution website " />
+        <title>Best software company in bangladesh</title>
+        <meta name="description" content="Transform your business with the best software company in Bangladesh. We build powerful apps, websites, and enterprise software systems" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link
           rel="shortcut icon"
