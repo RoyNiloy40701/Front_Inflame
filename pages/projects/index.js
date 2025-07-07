@@ -95,6 +95,8 @@ export default function Projects() {
             <link rel="canonical" href="https://www.inflamesolutions.com/projects/hr&payroll" />
             <link rel="canonical" href="https://www.inflamesolutions.com/projects/ticketing_system" />
             <link rel="canonical" href="https://www.inflamesolutions.com/projects/crm_software" />
+            <link rel="canonical" href="https://www.inflamesolutions.com/projects/pos_software" />
+            
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
           rel="stylesheet"
