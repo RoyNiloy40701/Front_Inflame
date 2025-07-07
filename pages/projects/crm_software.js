@@ -83,7 +83,7 @@ export default function CRMSoftware() {
         <meta
           name="description"
           content="From lead generation to after-sales service, the best CRM in Bangladesh helps you stay connected and organized at every stage"
-          <link rel="canonical" href="https://www.inflamesolutions.com/projects/accounting_software" />
+          // <link rel="canonical" href="https://www.inflamesolutions.com/projects/accounting_software" />
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
