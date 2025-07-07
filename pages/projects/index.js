@@ -88,6 +88,7 @@ export default function Projects() {
           name="description"
           content="Discover our cutting-edge software solutions tailored to elevate your business. From Accounting to CRM, we empower success with innovation."
         />
+            <link rel="canonical" href="https://www.inflamesolutions.com/projects" />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
           rel="stylesheet"
