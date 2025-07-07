@@ -115,10 +115,10 @@ export default function LatexSoftware() {
   return (
     <>
       <Head>
-        <title>Software Development</title>
+        <title>Best Software Development Company in Bangladesh | Custom Solutions</title>
         <meta
           name="description"
-          content="Inflame Solution Ltd is a leading software development company in Bangladesh, offering robust, scalable, and tailored software solutions."
+          content="Choose the best software development company in Bangladesh for ERP, CRM, HRM, inventory, accounting, eCommerce, and business automation software"
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap"
