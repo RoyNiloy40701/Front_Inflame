@@ -1,4 +1,3 @@
-
 import Head from "next/head";
 import Link from "next/link";
 import { IoMdCheckmarkCircleOutline, IoIosLock, IoMdArrowDropdown } from "react-icons/io";
@@ -121,8 +120,7 @@ export default function ManufacturingSoftware() {
         <title>Best Manufacturing Software Company in Bangladesh</title>
         <meta
           name="description"
-          content="From raw material tracking to final delivery, manage it all with the best manufacturing software company in Bangladesh."
-        />
+          content="From raw material tracking to final delivery, manage it all with the best manufacturing software company in Bangladesh." />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
           rel="stylesheet"
