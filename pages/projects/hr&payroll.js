@@ -112,10 +112,10 @@ export default function HRSoftware() {
   return (
     <>
       <Head>
-        <title>HR & Payroll Solutions</title>
+        <title>Affordable & Best HR Payroll Software in Bangladesh</title>
         <meta
           name="description"
-          content="Streamline HR and payroll with HRPro’s intuitive employee management, automated payroll, and compliance tools."
+          content="Manage HR tasks, payroll, and employee data with the best HR and Payroll software in Bangladesh, that is trusted by top companies."
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
