@@ -133,8 +133,7 @@ export default function WebDevelopment() {
         <title> Custom Web Developer Company in Bangladesh</title>
         <meta
           name="description"
-          content="Create responsive, secure, and SEO-optimized websites with the best web developer company in Bangladesh."
-        />
+          content="Create responsive, secure, and SEO-optimized websites with the best web developer company in Bangladesh." />
         <meta
           name="keywords"
           content="web development, web design, responsive websites, SEO, UI/UX, Inflame Solutions"
