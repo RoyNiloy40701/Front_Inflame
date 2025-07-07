@@ -172,10 +172,10 @@ export default function POSSoftware() {
   return (
     <>
       <Head>
-        <title>POS Solutions</title>
+        <title>Best POS Software in Bangladesh | Fast & Easy Billing</title>
         <meta
           name="description"
-          content="Revolutionize your retail experience with Inflame POS Software’s lightning-fast transactions, intuitive inventory tools, and customer-focused features."
+          content="Barcode scanning, multi-branch, and more, optimize your retail business with the best POS software in Bangladesh."
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
