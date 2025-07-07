@@ -128,10 +128,10 @@ export default function SaaSProducts() {
   return (
     <>
       <Head>
-        <title>SaaS Solutions</title>
+        <title>Trusted SaaS Providers in Bangladesh | Business Automation</title>
         <meta
           name="description"
-          content="Elevate your business with CloudSync’s SaaS products: CRM, project management, and collaboration tools designed for growth."
+          content=" Organize HR, accounting, CRM, and more with advanced SaaS software in Bangladesh, trusted by growing businesses"
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;400;500;700&display=swap"
