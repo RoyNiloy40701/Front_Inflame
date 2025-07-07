@@ -114,10 +114,10 @@ export default function InflameInventory() {
   return (
     <>
       <Head>
-        <title>Inflame - Comprehensive Inventory Solutions</title>
+        <title>Best Inventory management software in bangladesh</title>
         <meta
           name="description"
-          content="Streamline your inventory with Inflame’s all-in-one software, featuring real-time tracking, barcode scanning, multi-location support, advanced analytics, and integrations."
+          content="Track stock, manage warehouses, and optimize supply chains with the best inventory management software in Bangladesh 2025."
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
