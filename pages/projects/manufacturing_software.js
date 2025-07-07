@@ -121,7 +121,7 @@ export default function ManufacturingSoftware() {
         <title>Best Manufacturing Software Company in Bangladesh</title>
         <meta
           name="description"
-          content="Inflame Solution Ltd is a leading manufacturing software development company in Bangladesh, delivering robust, scalable solutions to optimize production processes."
+          content="From raw material tracking to final delivery, manage it all with the best manufacturing software company in Bangladesh."
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
