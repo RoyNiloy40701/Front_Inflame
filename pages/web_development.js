@@ -130,10 +130,10 @@ export default function WebDevelopment() {
   return (
     <>
       <Head>
-        <title>Web Design & Development - Inflame Solutions</title>
+        <title> Custom Web Developer Company in Bangladesh</title>
         <meta
           name="description"
-          content="Inflame is a trusted web developer company in Bangladesh, offering high-tech website development services tailored to grow your business online."
+          content="Create responsive, secure, and SEO-optimized websites with the best web developer company in Bangladesh."
         />
         <meta
           name="keywords"
