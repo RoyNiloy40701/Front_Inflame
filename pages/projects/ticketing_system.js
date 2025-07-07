@@ -121,10 +121,10 @@ export default function InflameTicketing() {
   return (
     <>
       <Head>
-        <title>Best Inventory management software in bangladesh</title>
+        <title>Best Ticketing software in bangladesh</title>
         <meta
           name="description"
-          content="rack stock, manage warehouses, and optimize supply chains with the best inventory management software in Bangladesh 2025."
+          content="Simplify ticket sales and customer service with the best ticketing software in Bangladesh, real-time updates and secure access"
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
