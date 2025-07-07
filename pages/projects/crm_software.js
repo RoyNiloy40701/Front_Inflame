@@ -79,10 +79,11 @@ export default function CRMSoftware() {
   return (
     <>
       <Head>
-        <title>CRM & Sales Solutions</title>
+        <title>Use CRM Software for management leads and boost sales</title>
         <meta
           name="description"
-          content="Boost sales and customer relationships with CRMPro’s intuitive CRM system, lead management, and analytics tools."
+          content="From lead generation to after-sales service, the best CRM in Bangladesh helps you stay connected and organized at every stage"
+          <link rel="canonical" href="https://www.inflamesolutions.com/projects/accounting_software" />
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
