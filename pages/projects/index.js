@@ -89,6 +89,12 @@ export default function Projects() {
           content="Discover our cutting-edge software solutions tailored to elevate your business. From Accounting to CRM, we empower success with innovation."
         />
             <link rel="canonical" href="https://www.inflamesolutions.com/projects" />
+            <link rel="canonical" href="https://www.inflamesolutions.com/projects/accounting_software" />
+            <link rel="canonical" href="https://www.inflamesolutions.com/projects/inventory_software" />
+            <link rel="canonical" href="https://www.inflamesolutions.com/projects/manufacturing_software" />
+            <link rel="canonical" href="https://www.inflamesolutions.com/projects/hr&payroll" />
+            <link rel="canonical" href="https://www.inflamesolutions.com/projects/ticketing_system" />
+            <link rel="canonical" href="https://www.inflamesolutions.com/projects/crm_software" />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
           rel="stylesheet"
