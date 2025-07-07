@@ -413,14 +413,16 @@ export default function Home() {
         <title>Best software company in bangladesh</title>
         <meta name="description" content="Transform your business with the best software company in Bangladesh. We build powerful apps, websites, and enterprise software systems" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://www.inflamesolutions.com" />
-
+       
         <link
           rel="shortcut icon"
           type="image/png"
           href="/img/inflame logo 2.png"
         />
+             <link rel="canonical" href="https://www.inflamesolutions.com" />
+
       </Head>
+            
       <style jsx>{`
         .threejs-canvas {
           position: absolute;
