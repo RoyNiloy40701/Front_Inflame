@@ -76,7 +76,7 @@ export default function Header() {
                 <Link href="/software_development">Software Development</Link>
                 <Link href="/saas-product">SaaS Product</Link>
                 <Link href="/digital-marketing">Digital Marketing(SEO)</Link>
-                <Link href="/ai-automation">AI Automstion</Link>
+                <Link href="/ai-automation">AI Automation</Link>
                 <Link href="/products">Products</Link>
               </div>
             </li>
