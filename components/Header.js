@@ -75,7 +75,7 @@ export default function Header() {
                 <Link href="/web_development">Web Design & Development</Link>
                 <Link href="/software_development">Software Development</Link>
                 <Link href="/creative_desing">SaaS Products</Link>
-                <Link href="/organic_marketing">Digital Marketing(SEO)</Link>
+                <Link href="/digital-marketing">Digital Marketing(SEO)</Link>
                 <Link href="/paid_marketing">AI Automstion</Link>
                 <Link href="/products">Products</Link>
               </div>
@@ -152,7 +152,7 @@ export default function Header() {
                 <Link href="/web_development">Web Design & Development</Link>
                 <Link href="/software_development">Software Development</Link>
                 <Link href="/creative_desing">Creative Design</Link>
-                <Link href="/organic_marketing">Organic Marketing</Link>
+                <Link href="/digital-marketing">Digital Marketing</Link>
                 <Link href="/paid_marketing">Paid Marketing</Link>
                 <Link href="/products">Products</Link>
               </div>
