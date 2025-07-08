@@ -421,6 +421,7 @@ export default function Home() {
           href="/img/inflame logo 2.png"
         />
              <link rel="canonical" href="https://www.inflamesolutions.com" />
+            <meta name="google-site-verification" content="OPc_0OCRk-UHB2OH09ZBBH47On14eoZgQPgzGfLLfQY" />
 
       </Head>
             
