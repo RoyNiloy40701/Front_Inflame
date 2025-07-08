@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /private/
+Disallow: /temp/
+Disallow: /admin/
+Disallow: /cgi-bin/
+
+# Allow everything else
+Allow: /
+
+# Sitemap location
+Sitemap: https://inflamesolutions.com/sitemap.xml
