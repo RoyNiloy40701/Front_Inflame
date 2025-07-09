@@ -99,7 +99,7 @@ export default function Header() {
             </li>
 
             <li>
-              <Link href="/shop" className={activeLink === "/shop" ? "active" : ""}>
+              <Link href="/about-us" className={activeLink === "/about-us" ? "active" : ""}>
                 About Us
               </Link>
             </li>
