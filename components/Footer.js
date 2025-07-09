@@ -15,7 +15,7 @@ export default function Footer() {
             Inflame Solutions Ltd. delivers scalable, innovative software that transforms your business potential.
           </p>
           <div className="footer-socials">
-            <a href="https://www.facebook.com/inflamesolutionsltd" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+            <a href="https://www.facebook.com/inflamesolutionsltd/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
               <FaFacebookF />
             </a>
             <a href="https://www.instagram.com/inflamesolutionsltd?igsh=MTl2MXZoanBhY3p0NQ==" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
