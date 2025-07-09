@@ -118,7 +118,7 @@ export default function Contact() {
                   <li>
                     <IoLogoFacebook />{" "}
                     <span>
-                      FaceBook: <a href="https://www.facebook.com/inflamesolutionltd" target="_blank">Inflame Solution Ltd</a>
+                      FaceBook: <a href="https://www.facebook.com/inflamesolutionsltd/" target="_blank">Inflame Solution Ltd</a>
                     </span>
                   </li>
                 </ul>
