@@ -16,7 +16,7 @@ function useFetchData(apiEndpoint) {
       setLoading(true);
       try {
         const res = await axios.get(apiEndpoint, { timeout: 10000 }); // 10s timeout
-        console.log("API Response:", res.data); // Debug log
+        // console.log("API Response:", res.data); // Debug log
 
         // Defensive: always return an array for allData
         if (Array.isArray(res.data)) {

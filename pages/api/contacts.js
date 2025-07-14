@@ -1,18 +1,54 @@
-export default function handler(req, res) {
-  if (req.method === 'POST') {
-    const { name, lname, email, company, phone, country, project, description } = req.body;
+import { mongooseConnect } from "@/lib/mongoose";
+import Contact from "@/models/contact";
 
-    // Basic validation
-    if (!name || !email || !phone) {
-      return res.status(400).json({ error: 'Name, email, and phone are required.' });
-    }
 
-    // Simulate saving to database (replace with actual database logic)
-    const contactData = { name, lname, email, company, phone, country, project, description, submittedAt: new Date() };
-    console.log('Contact form data received:', contactData);
-    return res.status(200).json({ message: 'Contact form submitted successfully!' });
-  } else {
-    res.setHeader('Allow', ['POST']);
-    return res.status(405).json({ error: `Method ${req.method} not allowed` });
+export default async function handler(req, res) {
+  await mongooseConnect();
+  const { method } = req;
+
+
+
+  switch (method) {
+    case "POST":
+      try {
+        const { name, lname, email, company, phone, country, project, price, description } = req.body;
+
+        if (!name || !email || !phone) {
+          return res.status(400).json({ error: "Name, email, and phone are required." });
+        }
+
+        const contactDoc = await Contact.create({
+          name,
+          lname,
+          email,
+          company,
+          phone,
+          country,
+          project,
+          price,
+          description,
+        });
+
+        res.status(201).json(contactDoc);
+      } catch (error) {
+        console.error("Error creating contact:", error);
+        res.status(500).json({ error: "Internal Server Error" });
+      }
+    case "GET":
+      try {
+        const contact = await Contact.find();
+        if (!contact) {
+          return res.status(404).json({ success: false, error: "Contact not found" });
+        }
+        return res.status(200).json(contact);
+
+      } catch (error) {
+        console.error("Error fetching blogs:", error);
+        return res.status(500).json({ success: false, error: error.message });
+      }
+
+    default:
+      res.setHeader("Allow", ["GET", "POST", "PUT", "DELETE"]);
+      return res.status(405).end(`Method ${method} Not Allowed`);
   }
 }

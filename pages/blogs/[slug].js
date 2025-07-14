@@ -34,6 +34,8 @@ const BlogPage = () => {
             });
     }, [slug]);
 
+
+
     if (loading) {
         return <div className="flex flex-center wh_100">Loading...</div>;
     }

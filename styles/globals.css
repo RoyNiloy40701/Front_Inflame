@@ -4212,8 +4212,8 @@ header.sticky {
 .blogslugpagecont {
   width: 100%;
   display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
 }
 
 .leftsitedetails {
