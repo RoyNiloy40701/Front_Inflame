@@ -18,7 +18,6 @@ export default function Blogs() {
 
   const { allData, loading, error } = useFetchData("/api/blogs");
 
-
   const paginate = (pageNumber) => {
     setCurrentPage(pageNumber);
   };
@@ -103,7 +102,7 @@ export default function Blogs() {
                             <SwiperSlide key={blog._id}>
                               <div className="fpost">
                                 <Link href={`/blogs/${blog.slug}`}>
-                                 
+
                                   <img
                                     src={blog.images && blog.images[0] ? blog.images[0] : "/default-image.jpg"}
                                     alt={blog.title || "Blog Image"}
